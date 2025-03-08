@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Лабораторная работа № 2"
-subtitle: "Первоначальна настрой"
+subtitle: "Первоначальная настройка git"
 author: "Толстых Александра НММбд-03-24"
 
 ## Generic otions
