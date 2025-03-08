@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Лабораторная работа № 4"
-subtitle: "ОПродвинутое использование git"
+subtitle: "Продвинутое использование git"
 author: "Толстых Александра НММбд-03-24"
 
 ## Generic otions
